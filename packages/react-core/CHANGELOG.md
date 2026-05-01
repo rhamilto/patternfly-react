@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.5.0-prerelease.65](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@6.5.0-prerelease.64...@patternfly/react-core@6.5.0-prerelease.65) (2026-05-01)
+
+### Bug Fixes
+
+- **demos:** improve AttributeValueFiltering menu selection and keyboard handling ([#12207](https://github.com/patternfly/patternfly-react/issues/12207)) ([2e6f8f2](https://github.com/patternfly/patternfly-react/commit/2e6f8f2fbbaedf288fff7dd681f63f1d1c7d26db))
+
 # [6.5.0-prerelease.64](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-core@6.5.0-prerelease.63...@patternfly/react-core@6.5.0-prerelease.64) (2026-04-29)
 
 ### Features
